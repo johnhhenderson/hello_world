@@ -1,2 +1,1 @@
-# hello_world
-Pedagogical repository
+I live with dogs.  Literal dogs.  I.e., Canis familiaris.  Ivy is an English Setter.  She is our pet.  Most of the time, there is a second dog in the house.  This will be a Labrador Retriever, Golden Retriever, or a Lab/Golden mix (known as an LGX) which is a puppy that we are raising for Canine Companions for Independence.
